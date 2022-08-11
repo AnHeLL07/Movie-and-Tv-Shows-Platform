@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps
+
+### 1 npx create-react-app my-app (or clone this repository in folder with my-app name)
+
+### 2 cd my-app
+
+### 3 npm i react-router-dom axios query-string sass swiper@6.8.4 --save
+
+### 4 npm install (npm i)
+
+### 5 npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
