@@ -4,15 +4,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps
 
-### 1 npx create-react-app my-app (or clone this repository in folder with my-app name)
+### 1. `npx create-react-app my-app (or clone this repository in folder with my-app name)`
 
-### 2 cd my-app
+### 2. `cd my-app`
 
-### 3 npm i react-router-dom axios query-string sass swiper@6.8.4 --save
+### 3. `npm i react-router-dom axios query-string sass swiper@6.8.4 --save`
 
-### 4 npm install (npm i)
+### 4. `npm install (npm i)`
 
-### 5 npm start
+### 5. `npm start`
+
+## Preview
+![1](https://user-images.githubusercontent.com/3600433/184255594-61053e9a-276e-40eb-b8d2-071abe7a96ed.jpg)
+![2](https://user-images.githubusercontent.com/3600433/184255627-c3a65e54-6355-49bc-acc9-765e6d20ff07.jpg)
+![3](https://user-images.githubusercontent.com/3600433/184255629-26fb4d87-e43a-4075-9742-0bac349015cf.jpg)
+![4](https://user-images.githubusercontent.com/3600433/184255632-06c5e9a1-b263-435c-94df-228d981030a6.jpg)
+![5](https://user-images.githubusercontent.com/3600433/184255633-46d998dd-6438-412b-9731-43ddbda3a14e.jpg)
+![6](https://user-images.githubusercontent.com/3600433/184255635-2cbc860c-839e-4d76-b157-ee8060b99052.jpg)
 
 ## Available Scripts
 
@@ -56,27 +64,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
