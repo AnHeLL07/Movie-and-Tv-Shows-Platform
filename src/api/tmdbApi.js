@@ -40,9 +40,9 @@ const tmdbApi = {
     postAuthenticationToken: () => {
         const url = '/authentication/token/validate_with_login';
         return axiosClient.post(url, {
-            username: 'AnHeLL07',
-            password: 'Judokanus1.',
-            request_token: '9f1616a210c25ae3f62229dbd44fc04360f6c9cb'
+            username: '',
+            password: '',
+            request_token: ''
           });
     },
     getAccount: (params) => {
